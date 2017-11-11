@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
+
+
+body{
+    font-family: 'Audiowide', cursive;
+    
+}
+
+p {
+    margin: 0 0 10px;
+    padding-left: 30px;
+}
+
+input {
+    padding: 5px;
+    line-height: normal;
+    margin-left: 30px;
+    background-color: transparent;
+    margin-bottom: 20px;
+}
+
+#reset{
+    background-color: transparent;
+    border: none:
+}
+
+.winner{
+    color: green;
+}
+
+.row{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.caption{
+   padding-left: 30px;
+   padding-bottom: 20px;
+    
+}
+.player_one{
+    text-align: center;
+   background-color: #E80CD0;
+   
+  
+}
+
+.player_two{
+    text-align: center;
+    background-color: #FF0DFF;
+   
+    
+}
+
+.player_one h1, .player_two h1{
+    padding-bottom: 100px;
+    padding-top: 300px;
+}
+
+.player_one button, .player_two button{
+    margin-bottom: 300px;
+    background-color: transparent;
+    font-size: 1.8em;
+    border-color: black;
+    
+}
+
+.player_one button:hover, .player_two button:hover{
+   
+    background-color: #9600D0;
+    
+    border-color: black;
+    
+}
+
+.btn-default.active.focus, .btn-default.active:focus, .btn-default.active:hover, .btn-default:active.focus, .btn-default:active:focus, .btn-default:active:hover, .open>.dropdown-toggle.btn-default.focus, .open>.dropdown-toggle.btn-default:focus, .open>.dropdown-toggle.btn-default:hover {
+    color: #333;
+    background-color: transparent;
+    border-color: #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.players{
+   
+ background-color: #B047FF;
+}
